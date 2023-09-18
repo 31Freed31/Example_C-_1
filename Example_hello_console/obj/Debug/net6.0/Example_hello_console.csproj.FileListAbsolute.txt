@@ -1,0 +1,15 @@
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.exe
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.deps.json
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.runtimeconfig.json
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.dll
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\bin\Debug\net6.0\Example_hello_console.pdb
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.AssemblyInfo.cs
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.dll
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\refint\Example_hello_console.dll
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.pdb
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\Example_hello_console.genruntimeconfig.cache
+C:\Users\abdul\Desktop\Example_1_C#\Example_hello_console\obj\Debug\net6.0\ref\Example_hello_console.dll
